@@ -1,0 +1,43 @@
++++
+date = '2026-01-18T20:04:41-06:00'
+draft = false
+title = 'Reflexión: La Metamorfosis'
+author = "Kero Usagi"
+tags = ['reflexión', 'franz kafka', 'depresión', 'alienación', 'suicidio', 'utilitarismo', 'vacío']
+
+fingerprint = "FAF4 79C8 BE85 DA63 3F85 E3BC D5C2 7FD9 C206 7C52"
++++
+
+Alienación, servilidad, ideación suicida pasiva, eterno vacío, ver el tiempo pasar, relaciones transaccionales, eterna productividad, proveedor de casa, utilitarismo, entre otras cosas. Estos adjetivos y verbos describen bastante bien el núcleo de esta obra. ¿Hasta que punto el sistema nos orilla a sólo producir y producir, al punto que desfallecemos y lo único que hemos logrado en nuestra vida, es producir para un sistema de crecimiento eternamente exponencial y que no reconoce límites? La trágica vida de Gregorio sin duda tiene algo que mostrarles a ustedes. Odio admitir que Gregorio es como un espejo para mí, un espejo roto y ensangrentado.
+
+## Viaje al pasado
+
+Este libro lo recuerdo cuando leí fragmentos y solamente el primer capítulo por eso del año 2019. Estaba en educación básica y lo recuerdo bastante bien. Estaba en las gradas que daba para la tercera planta, y estaba leyendo un libro que se me hizo cuánto menos, bastante curioso. Tenía de portada, una cucaracha y tenía como título: _La Metamorfosis._ En ese entonces, no había entendido en lo absoluto el mensaje de la obra. Por ese entonces, realmente se me hacía demasiado loco el amanecer como un insecto horrible y batallar por moverse, me lo tomaba demasiado literal eso. ¡Maldita sea con la portada de cucaracha o escarabajo! Realmente esas portadas matan la esencia del mensaje de esta obra. Me confundí bastante para ese entonces, realmente estaba leyendo algo con lo que no relataba y comprendía.
+
+Quién diría que después de varios años después como una persona adulta, he sido capaz de ver más allá del "insecto", vi un mensaje bastante potente y doloroso. No ví una moraleja palomitera barata. Vi una problemática en frente de mis ojos. Vi a un escritor judío, mostrándome el cadáver que hay ahí, en la habitación oscura donde nadie asoma su mirada, donde nadie se atreve a reconocer el cuerpo; luego de contemplar ese muerto, el escritor ha apagado la vela que me permitía ver en el cuarto oscuro en donde me encontraba, para nunca volver más, la problemática había sido servida y era mi tarea encontrar una vela para poder volver a ver, aún si me tocase herirme las manos con el sinfín de chatarra allá afuera.
+
+Debo reconocer que Kafka no me vino a hacer lecturas de moral barata que cualquier charlatán me diría con sus libros de quinta o sus vídeos inspiracionales vacíos que hacen que considere a la pornografía más intensa y llena de fetiches, como un mejor instrumento de inspiración emocional; me hizo ser consciente de una verdad incómoda y me dejó como tarea, el reflexionar con una historia que muestra un reflejo muy oscuro de la sociedad. ¡Absoluto genio!
+
+Antes de continuar, debo advertir que no tendré filtros en lo que diré y no tengo miedo a incomodar, en lo absoluto. Después de todo, no vine a complacer a nadie, sólo vine a liberarme de mi propia miseria y sufrimiento, mi mente me hace sufrir cada madlito día de mi existencia. Espero les guste, no les guste o no les genere nada.
+
+## Mi deshumanización
+
+En toda mi vida, siempre han tenido expectativas altas de mí en mi familia, siempre esperan que haga todo pefecto y que sea un ejemplo. Mi familia involuntariamente se ha apoyado demasiado en mí. Me siento como Gregorio, el día que me siento completamente mal emocionalmente y sólo desearía que la tierra me tragase, no hace falta el escuchar el sinfín de comentarios hirientes recordándome que el tiempo se desvanece. Mi relación con mi familia es horrible, es meramente utilitarista y transaccional. Sigo estudiando una carrera porque sólo esperan de mí, que sirva como pilar de la familia. ¿Desde cuándo simplemente han tenido una expectativa en donde simplemente me permitan existir? La respuesta es que ha sido _desde nunca._ Tengo una relación completamente vacía con mis padres, no conozco nada de ellos, ellos no conocen nada de mí. Hay veces que me termino sintiendo como Gregorio por culpa de la depresión, incapaz de levantarme, mi mente perisguiéndome no ayuda en lo absoluto y eso me carcome, me consume completamente.
+
+Me he alienado completamente... No puedo evitar sentir completa inutilidad cuando no estoy haciendo algo productivo, siempre siento culpa cuando descanso, siento una horrible culpa hasta por respirar. Ya debería de haber aprobado las pasantías laborales a mi edad, pero sin embargo, sigo sin ser capaz de salir de mi estancamiento profesional. Odio pensar en como se quema la gente de mi entorno. Yo intenté buscar un trabajo en vacaciones, pero me sentí completamente inútil, me sentí como un puto insecto y sólo terminé mirando al techo con una mirada completamente vacía. Yo sé muy en el fondo, que nunca he sido visto como una persona real, aún a pesar de haber logrado llegar lejos, sigo sin sentirme como una persona real. Nadie en mi familia me hace sentirme así.
+
+Se siente bastante pesado el tiempo, me siento como un completo insecto. No quiero rendirme, no por miedo al abandono, sino que por tener la oportunidad de poder ser realmente yo. No quiero tener otra vez esos pensamientos peligrosos, no quiero llegar a estar en peligro por culpa de la ideación suicida activa. Desearía dejar de ser una persona resentida, pero me causa bastante molestia cuando otros familiares, no dudan en pedirme favores. Nunca he hecho una mala cara, incluso he sacrificado parte de mi tiempo(que seguramente estaba desperciándolo, pero a mi manera) para ayudarles con sus problemas.
+
+Odio que cuando no logro cumplir, se enojen conmigo y digan cosas hirientes a mis espaldas. No tengo derecho a equivocarme, debo ser un "hombre proveedor y productivo" para esta gente. ¡NO SOY ESO! Soy antes una roca que eso. Por ahora, hasta aquí dejaré esta reflexión, prometo mejorarla, pero por hoy sólo dejo este mensaje.
+
+Una parte de mí, desearía haber muerto hace años, pero no será por esta vez, quiero seguir intentándolo. Paz.
+
+— Kero Usagi (@byeku2)
+
+---
+
+## Archivos de verificación
+- [Texto(s) claro(s)](/posts/la-metamorfosis-reflexion/la-metamorfosis-reflexion.txt)
+- [Checksum](/posts/la-metamorfosis-reflexion/la-metamorfosis-reflexion.txt.sha256)
+- [Firma del archivo](/posts/la-metamorfosis-reflexion/la-metamorfosis-reflexion.txt.sha256.sig)
+- [Clave usada](/keys/public-jan-17-2026_2028.asc)

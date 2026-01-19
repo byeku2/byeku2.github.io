@@ -1,0 +1,52 @@
+# Metadata
+
+baseURL = 'https://byeku2.github.io/'
+title = 'el baúl de kero usagi'
+theme = 'hugo-ficurinia'
+languageCode = 'es'
+defaultContentLanguage = "es"
+copyright = ""
+
+[params]
+    author = 'Kero Usagi'
+    enableFeatured = true
+    paperCards = true
+    enableShadow = true
+    mobileHamburgerNav = true
+    fingerprint = "FAF4 79C8 BE85 DA63 3F85 E3BC D5C2 7FD9 C206 7C52"
+    currentKey = "public-jan-17-2026_2028.asc"
+
+    # Icons
+    logo = "/logo.svg"
+    logoAltText = "Logo"
+    favicon = "/favicon.png"
+    faviconIco = "/favicon.ico"
+    appletouch = "/apple-touch-icon.png"
+    svgicon = "/logo.svg"
+
+
+[menu]
+    # Opciones
+    [[menu.main]]
+        identifier = "about"
+        name = "Sobre mí"
+        url = "/about"
+        weight = 10
+    [[menu.main]]
+        identifier = "authenticity"
+        name = "Autenticidad"
+        url = "/authenticity"
+        weight = 20
+
+    # Iconos
+    [[menu.icons]]
+        identifier = "telegram"
+        name = "Telegram"
+        url = "https://t.me/byeku2"
+        weight = 10
+    [[menu.icons]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/byeku2"
+        weight = 20
+
