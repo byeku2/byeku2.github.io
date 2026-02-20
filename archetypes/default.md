@@ -11,7 +11,7 @@ fingerprint = "{{ site.Params.fingerprint }}"
 ---
 
 ## Archivos de verificación
-- [Texto(s) claro(s)](/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.txt)
-- [Checksum](/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.txt.sha256)
-- [Firma del archivo](/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.txt.sha256.sig)
+- [Texto(s) claro(s)](/posts/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.txt)
+- [Checksum](/posts/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.txt.sha256)
+- [Firma del archivo](/posts/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.txt.sha256.sig)
 - [Clave usada](/keys/change_me)
