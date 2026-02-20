@@ -1,6 +1,6 @@
 +++
 date = '2026-02-18T14:34:01-06:00'
-draft = true
+draft = false
 title = 'Reflexión: Indigno de ser humano, parte I'
 author = "Kero Usagi"
 tags = ['osamu dazai', 'reflexión', 'depresión', 'alienación', 'suicidio', 'vacío', 'drogas']
